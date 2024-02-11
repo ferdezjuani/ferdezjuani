@@ -16,7 +16,7 @@ Juani</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently Web3
+- 🌱 I’m currently learning Web3
 
 - 💬 Ask me about **Reactjs & Typescript**
 
