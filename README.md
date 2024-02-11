@@ -18,7 +18,7 @@ Juani</a></h1>
 
 - 🌱 I’m currently Web3
 
-- 💬 Ask me about **Reactjs & Typescript*
+- 💬 Ask me about **Reactjs & Typescript**
 
 - 📫 How to reach me **dev.ferdezjuani@gmail.com**
 
