@@ -10,13 +10,11 @@ Juani</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://www.quadiontech.com/" target="blank">Quadion Technologies</a>
+- 🔭 Software Developer @ <a href="https://www.quadiontech.com/" target="blank">Quadion Technologies</a>
 
-- 🌱 I’m currently Working on Web App(React & Typescript)
+- 🌱 React Next Typescript Nodejs Express SQL & noSQL
 
 - 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Web3
 
 - 💬 Ask me about **Reactjs & Typescript**
 
