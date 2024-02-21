@@ -16,8 +16,6 @@ Juani</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 💬 Ask me about **Reactjs & Typescript**
-
 - 📫 How to reach me **dev.ferdezjuani@gmail.com**
 
 - 📄 Know about my experiences <a href="https://www.ferdezjuani.xyz" target="blank">Resume</a>
